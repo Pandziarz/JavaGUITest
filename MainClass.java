@@ -34,9 +34,6 @@ public class MainClass {
 
         frame.setResizable(false);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setTitle("Testowy Program");
+        frame.setTitle("Test Program");
     }
-
-    @Override
-    public void action
 }
