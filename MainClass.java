@@ -18,7 +18,6 @@ public class MainClass {
 
     public static void GUI() {
         JButton button = new JButton("Click Me!");
-        button.addActionListener(this);
 
         JLabel label = new JLabel("Number of Clicks: 0");
 
