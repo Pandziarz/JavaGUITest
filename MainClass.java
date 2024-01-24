@@ -28,6 +28,7 @@ public class MainClass {
 
         JFrame frame = new JFrame();
         frame.add(panel, BorderLayout.CENTER);
+        frame.add(label, BorderLayout.CENTER);
         frame.pack();
         frame.setVisible(true);
 
